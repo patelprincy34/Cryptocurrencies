@@ -5,6 +5,8 @@ The purpose of this analysis  is to use unsupervised machine learning to  eva
 
 ### Results
 Here is the Elbow curve for Clustering Cryptocurrencies using K-Means
+* The best k value seems to be 4, so in order to categorize the crytocurrenciesan we would need output of 4 clusters 
+
 ![image](https://user-images.githubusercontent.com/93439516/176964009-24a88df8-8787-4c1c-8467-4a2af7589717.png)
 
 
